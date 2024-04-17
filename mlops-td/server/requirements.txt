@@ -1,0 +1,8 @@
+fastapi 
+streamlit 
+uvicorn 
+pymongo
+joblib
+scikit-learn
+python-multipart
+pydantic
